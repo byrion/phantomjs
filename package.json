@@ -1,0 +1,7 @@
+{
+  "name": "phantomjs-prebuilt",
+  "version": "2.1.1",
+  "bin": {
+    "phantomjs": "./bin/phantomjs"
+  }
+}
